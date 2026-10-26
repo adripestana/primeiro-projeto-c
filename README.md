@@ -1,1 +1,1 @@
-# primiero-projeto-c
+# primeiro-projeto-c
